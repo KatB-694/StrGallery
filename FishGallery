@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html lang="en-US">
+<body>
+
+  <h3>Starter Gallery of Tetra Fish</h3>
+
+<hr />
+
+      <p><a href="https://commons.wikimedia.org/wiki/File:Paracheirodon_simulans.jpg">
+        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/Paracheirodon_simulans.jpg/800px-Paracheirodon_simulans.jpg"
+        alt="Green Neon Tetra"
+        height="350px"/>
+      </a></p>
+
+      <p><a href="https://commons.wikimedia.org/wiki/File:Cardinal_Paracheirodon_axelrodi_(2).jpg">
+        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/28/Cardinal_Paracheirodon_axelrodi_%282%29.jpg/720px-Cardinal_Paracheirodon_axelrodi_%282%29.jpg"
+        alt="Cardinal Tetra"
+        height="350px"/>
+      </a></p>
+
+       <img src="FireflyETetra.jpg"
+      alt="AI Ember Tetra"
+      height="350px"/>
+
+</body>
+</html>
